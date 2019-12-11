@@ -1,5 +1,5 @@
 class Shoe 
-  attr_accessor :color, :size, :material, :condition, :cobble
+  attr_accessor :color, :size, :material, :cobble
   def initialize(brand = "Adiddas", condition ="new")
    @brand = brand 
    @condition = condition
