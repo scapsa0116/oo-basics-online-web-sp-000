@@ -14,7 +14,7 @@ class Shoe
    def conditionn 
      @conditionn
    end
-Shoe.new.condition
+Shoe.new
 
  
 end 
